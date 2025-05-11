@@ -71,8 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aish4Innovation&theme=react-dark" width="100%"/>
 </p>
 
----
 
-### 📂 Featured Repositories
 
-<!-- Pinned Repos will automatically appear below in GitHub profile view -->
+
