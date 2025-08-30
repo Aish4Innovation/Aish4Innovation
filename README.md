@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning and building with **Flutter**, **Azure**
+- 🌱 Currently learning and building with **Flutter**, **ReactJS**
 - 💡 Blending tech with creativity — from **machine learning models** to **social media campaigns**
 - ✨ Passionate about **data visualization**, **problem solving**, and **designing meaningful tech solutions **
 - 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/m-aishwarya-001149295)
