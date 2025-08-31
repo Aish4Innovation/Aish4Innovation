@@ -34,6 +34,9 @@
 #### 🗄️ Backend & Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat&logo=postman&logoColor=white)
 
 #### 🧰 Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
